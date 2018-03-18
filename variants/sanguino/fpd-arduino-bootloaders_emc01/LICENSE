@@ -1,0 +1,6 @@
+Licensing
+
+    mega1284duino is licensed GPL v2.
+    Optiboot is licensed GPL v2.
+    Arduino is licensed GPL v2. Arduino uses the GNU avr-gcc toolchain, avrdude, avr-libc, and code from Processing and Wiring.
+    The changes that I've made to this repo for FirePick Delta usage are therefore GPL v2, however, other parts of the FirePick Delta project are licensed under other open-source terms.
